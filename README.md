@@ -34,4 +34,4 @@ A simple yet functional **Inventory Management System** built in **Java (Swing G
 
 ## 💾 File Format (`inventory.txt`)
 
-![grocery](https://github.com/user-attachments/assets/f541fd01-7d08-4bb0-8b41-41ff808eb7da)
+
